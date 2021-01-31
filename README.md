@@ -17,3 +17,4 @@ However, what you do not easily see is what happens to duplicate values when it 
 # In R
 As shown below, R actually makes this very easy (in case you are switching or would like to see this in a practical way). 
 
+![](https://raw.githubusercontent.com/alanoakes/Ranking/master/sampleb2.PNG)
